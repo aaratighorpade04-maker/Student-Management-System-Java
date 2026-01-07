@@ -1,84 +1,77 @@
-\# Student Management System (Console Based)
+ Student Management System (Console Based)
 
 
 
-This is a simple \*\*Student Management System\*\* built using \*\*Core Java\*\* as part of the \*\*Java Developer Internship – Week 1 Task\*\*.
+This is a simple 'Student Management System' built using Core Java as part of the Java Developer Internship – Week 1 Task
 
 
 
-\## 📌 Features
+ 📌 Features
 
-\- Add Student
+- Add Student
 
-\- View Students
+- View Students
 
-\- Update Student
+- Update Student
 
-\- Delete Student
-
-
-
-\## 🛠 Tech Stack
-
-\- Java (JDK 21)
-
-\- Core Java
-
-\- OOP Concepts
-
-\- ArrayList
-
-\- Console-based application
+- Delete Student
 
 
 
-\## 🧠 Concepts Used
+ 🛠 Tech Stack
 
-\- Classes and Objects
+- Java (JDK 21)
 
-\- Constructors
+- Core Java
 
-\- ArrayList for data storage
+- OOP Concepts
 
-\- CRUD Operations
+- ArrayList
 
-\- Scanner for user input
-
-
-
-\## ▶ How to Run the Project
-
-1\. Open Command Prompt
-
-2\. Navigate to the project folder
-
-3\. Compile the program:
-
-4\. Run the program:
+- Console-based application
 
 
 
-\## 📂 Project Structure
+🧠 Concepts Used
 
-\- StudentManagementSystem.java
+- Classes and Objects
 
-\- Student.class
+- Constructors
 
-\- StudentManagementSystem.class
+- ArrayList for data storage
 
+- CRUD Operations
 
-
-\## 📎 Internship Task
-
-This project fulfills the \*\*Week 1 – Core Java Fundamentals\*\* task requirement.
+- Scanner for user input
 
 
+ ▶ How to Run the Project
 
----
+1. Open Command Prompt
+
+2. Navigate to the project folder
+
+3. Compile the program:
+
+4. Run the program:
 
 
 
-Created by \*\*Aarati Ghorpade\*\*
+📂 Project Structure
+
+- StudentManagementSystem.java
+
+- Student.class
+
+- StudentManagementSystem.class
+
+
+
+📎 Internship Task
+
+This project fulfills the Week 1 – Core Java Fundamentals task requirement.
+
+Created by Aarati Ghorpade
 
 
 
